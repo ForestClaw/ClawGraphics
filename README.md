@@ -8,6 +8,6 @@ For information on how to use ClawGraphics see   and [https://www.clawpack.org/m
 
 For more information on Clawpack and AMRClaw see [http://www.clawpack.org](http://www.clawpack.org).  
 
-For information on ForestClaw, see [http://www.github.com/ForestClaw/forestclaw].
+For information on ForestClaw, see [http://www.github.com/ForestClaw/forestclaw](http://www.github.com/ForestClaw/forestclaw).
 
 
